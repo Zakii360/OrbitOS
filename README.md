@@ -1,6 +1,6 @@
 # 🪐 OrbitOS
 
-A browser-based OS built with pure HTML, CSS, and JavaScript. Glassmorphism aesthetic. Built by **Zaki @ 360 Digital, Co.**
+A browser-based OS built with pure HTML, CSS, and JavaScript. Crafted by **360 Digital, Co.**
 
 ## Features
 
